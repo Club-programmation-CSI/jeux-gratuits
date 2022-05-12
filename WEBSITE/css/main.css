@@ -67,6 +67,8 @@ section .games .game {
   border-radius: 20px;
   overflow: hidden;
   max-width: 600px;
+  color: white;
+  text-decoration: none;
 }
 section .games .game img {
   width: 100%;
