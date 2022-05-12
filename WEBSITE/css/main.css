@@ -1,13 +1,17 @@
 @font-face {
   font-family: "Roboto Flex";
-  src: url("/fonts/RobotoFlex.ttf") format("ttf supports variations"), url("/fonts/RobotoFlex.ttf") format("ttf-variations");
+  src: url("/fonts/RobotoFlex.ttf") format("truetype supports variations"), url("/fonts/RobotoFlex.ttf") format("truetype-variations");
   font-weight: 100 1000;
   font-stretch: 25% 151%;
+}
+@font-face {
+  font-family: "Bismarck";
+  src: url("/fonts/Bismarck.otf") format("opentype");
 }
 body {
   margin: 0;
   background: rgb(31, 52, 78);
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 header {
@@ -21,10 +25,9 @@ header img {
   opacity: 0.53;
 }
 header h1 {
-  font-family: "Roboto Flex";
-  font-size: 128px;
-  font-stretch: 138;
-  font-variation-settings: "GRAD" 0, "slnt" -10, "XTRA" 468, "XOPQ" 96, "YOPQ" 79, "YTLC" 514, "YTUC" 712, "YTAS" 750, "YTDE" -203, "YTFI" 738;
+  font-family: "Bismarck";
+  letter-spacing: 2px;
+  font-size: 150px;
   display: grid;
   place-items: center;
   inset: 0;
@@ -35,7 +38,7 @@ header .gradient {
   bottom: 0;
   height: 100px;
   width: 100%;
-  background: linear-gradient(0deg, #1f344e 10%, rgba(31, 52, 78, 0) 100%);
+  background: linear-gradient(0deg, rgb(31, 52, 78) 10%, rgba(31, 52, 78, 0) 100%);
 }
 
 section {
@@ -72,6 +75,7 @@ section .games .game {
 }
 section .games .game img {
   width: 100%;
+  max-height: 400px;
 }
 section .games .game h2 {
   text-align: center;
