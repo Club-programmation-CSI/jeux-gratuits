@@ -1,0 +1,12 @@
+{
+  "name": "JeuxGratuits",
+  "version": "1.0.0",
+  "description": "jeux gratuits de steam epic games",
+  "main": "index.js",
+  "repository": "https://github.com/Club-programmation-CSI/jeux-gratuits",
+  "author": "Rafael MC, Theophile M",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.51.0"
+  }
+}
