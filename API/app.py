@@ -11,6 +11,16 @@ CORS(app)
 
 @app.route("/")
 def hello_world():
-    steamGames = steam.fetchGames()
-    epicGames = epic.fetchGames()
+    games = []
+    try:
+        steamGames = steam.fetchGames()
+        games.append(steamGames)
+    except Exception as e:
+        print(e)
+    try:
+        epicGames = epic.fetchGames()
+        games.append(epicGames)
+    except Exception as e:
+        print(e)
+        
     return jsonify([*steamGames, *epicGames])
