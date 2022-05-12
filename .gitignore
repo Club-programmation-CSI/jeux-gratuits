@@ -131,3 +131,6 @@ dmypy.json
 # nodejs
 
 node_modules/
+
+# Local Netlify folder
+.netlify
