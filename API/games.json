@@ -1,0 +1,302 @@
+[
+    {
+        "name": "We Were Here Forever",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1341290/capsule_sm_120.jpg?t=1652354518",
+        "gameLink": "https://store.steampowered.com/app/1341290/We_Were_Here_Forever/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "We Were Here Series",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/bundles/12260/c15kejlk2t8gwena/capsule_sm_120.jpg?t=1652180700",
+        "gameLink": "https://store.steampowered.com/bundle/12260/We_Were_Here_Series/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "The Sims\u2122 4",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/capsule_sm_120.jpg?t=1647882700",
+        "gameLink": "https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Soundfall",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1608700/capsule_sm_120.jpg?t=1652286389",
+        "gameLink": "https://store.steampowered.com/app/1608700/Soundfall/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Sid Meier\u2019s Civilization\u00ae VI Anthology",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/bundles/21432/djvtj4go7ymkt5lv/capsule_sm_120.jpg?t=1651014070",
+        "gameLink": "https://store.steampowered.com/bundle/21432/Sid_Meiers_Civilization_VI_Anthology/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Sid Meier\u2019s Civilization\u00ae VI",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/289070/capsule_sm_120.jpg?t=1651784001",
+        "gameLink": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Red Dead Redemption 2",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/capsule_sm_120.jpg?t=1618851907",
+        "gameLink": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Outward : The Adventurer Bundle",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/bundles/15369/q5cpbvcuw95ofjlf/capsule_sm_120.jpg?t=1620655977",
+        "gameLink": "https://store.steampowered.com/bundle/15369/Outward__The_Adventurer_Bundle/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Neptunia x SENRAN KAGURA: Ninja Wars",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1836860/capsule_sm_120.jpg?t=1652289804",
+        "gameLink": "https://store.steampowered.com/app/1836860/Neptunia_x_SENRAN_KAGURA_Ninja_Wars/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Outward",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/794260/capsule_sm_120.jpg?t=1648118851",
+        "gameLink": "https://store.steampowered.com/app/794260/Outward/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "NBA 2K22",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1644960/capsule_sm_120.jpg?t=1649434032",
+        "gameLink": "https://store.steampowered.com/app/1644960/NBA_2K22/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "SOULCALIBUR VI",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/544750/capsule_sm_120.jpg?t=1646956219",
+        "gameLink": "https://store.steampowered.com/app/544750/SOULCALIBUR_VI/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "HITMAN 3",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1659040/capsule_sm_120.jpg?t=1645711397",
+        "gameLink": "https://store.steampowered.com/app/1659040/HITMAN_3/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Borderlands 3",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/397540/capsule_sm_120.jpg?t=1646090246",
+        "gameLink": "https://store.steampowered.com/app/397540/Borderlands_3/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Northgard",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/466560/capsule_sm_120.jpg?t=1650986464",
+        "gameLink": "https://store.steampowered.com/app/466560/Northgard/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Northgard: The Viking Age Edition",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/bundles/12024/avwhocict2p7zvez/capsule_sm_120.jpg?t=1643281901",
+        "gameLink": "https://store.steampowered.com/bundle/12024/Northgard_The_Viking_Age_Edition/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Hunt: Showdown",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/594650/capsule_sm_120.jpg?t=1652306448",
+        "gameLink": "https://store.steampowered.com/app/594650/Hunt_Showdown/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Neptunia x SENRAN KAGURA: Ninja Wars Collaboration",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/bundles/24697/98otih0ggqvdt41g/capsule_sm_120.jpg?t=1652288889",
+        "gameLink": "https://store.steampowered.com/bundle/24697/Neptunia_x_SENRAN_KAGURA_Ninja_Wars_Collaboration/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Transport Fever 2",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/capsule_sm_120.jpg?t=1648670217",
+        "gameLink": "https://store.steampowered.com/app/1066780/Transport_Fever_2/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "House Flipper",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/613100/capsule_sm_120.jpg?t=1652271447",
+        "gameLink": "https://store.steampowered.com/app/613100/House_Flipper/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "ASTRONEER",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/361420/capsule_sm_120.jpg?t=1643717824",
+        "gameLink": "https://store.steampowered.com/app/361420/ASTRONEER/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/640820/capsule_sm_120.jpg?t=1643207896",
+        "gameLink": "https://store.steampowered.com/app/640820/Pathfinder_Kingmaker__Enhanced_Plus_Edition/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Terraforming Mars",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/800270/capsule_sm_120.jpg?t=1652351280",
+        "gameLink": "https://store.steampowered.com/app/800270/Terraforming_Mars/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Pathfinder: Kingmaker - Imperial Edition Bundle",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/bundles/11193/m7wxkmxqd1lnj8ej/capsule_sm_120.jpg?t=1587469254",
+        "gameLink": "https://store.steampowered.com/bundle/11193/Pathfinder_Kingmaker__Imperial_Edition_Bundle/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Borderlands 3 Ultimate Edition",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/bundles/16675/g2acfhv84umle2oa/capsule_sm_120.jpg?t=1604930220",
+        "gameLink": "https://store.steampowered.com/bundle/16675/Borderlands_3_Ultimate_Edition/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Bloons TD 6",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/960090/capsule_sm_120.jpg?t=1634303522",
+        "gameLink": "https://store.steampowered.com/app/960090/Bloons_TD_6/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Assetto Corsa Competizione",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/805550/capsule_sm_120.jpg?t=1651677309",
+        "gameLink": "https://store.steampowered.com/app/805550/Assetto_Corsa_Competizione/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Outward: The Three Brothers",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1437000/capsule_sm_120.jpg?t=1623351708",
+        "gameLink": "https://store.steampowered.com/app/1437000/Outward_The_Three_Brothers/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Dying Light",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/239140/capsule_sm_120.jpg?t=1651762410",
+        "gameLink": "https://store.steampowered.com/app/239140/Dying_Light/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Car Mechanic Simulator 2021",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1190000/capsule_sm_120.jpg?t=1652091166",
+        "gameLink": "https://store.steampowered.com/app/1190000/Car_Mechanic_Simulator_2021/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "The Sims\u2122 4 Deluxe + Cats & Dogs Bundle",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/bundles/15528/duskqjrd1fcf2hvm/capsule_sm_120.jpg?t=1594849482",
+        "gameLink": "https://store.steampowered.com/bundle/15528/The_Sims_4_Deluxe__Cats__Dogs_Bundle/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "The Flipper Bundle",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/bundles/15013/n6epxokac1ejk08c/capsule_sm_120.jpg?t=1634232332",
+        "gameLink": "https://store.steampowered.com/bundle/15013/The_Flipper_Bundle/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": ".hack//G.U. Last Recode",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/525480/capsule_sm_120.jpg?t=1650408028",
+        "gameLink": "https://store.steampowered.com/app/525480/hackGU_Last_Recode/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Police Simulator: Patrol Officers",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/997010/capsule_sm_120.jpg?t=1649773004",
+        "gameLink": "https://store.steampowered.com/app/997010/Police_Simulator_Patrol_Officers/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Brigandine The Legend of Runersia",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1843940/capsule_sm_120.jpg?t=1652252369",
+        "gameLink": "https://store.steampowered.com/app/1843940/Brigandine_The_Legend_of_Runersia/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Inscryption",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1092790/capsule_sm_120.jpg?t=1651689183",
+        "gameLink": "https://store.steampowered.com/app/1092790/Inscryption/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Marvel's Guardians of the Galaxy + Marvel's Avengers",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/bundles/25298/fgmaysw3ril74xy8/capsule_sm_120.jpg?t=1652198375",
+        "gameLink": "https://store.steampowered.com/bundle/25298/Marvels_Guardians_of_the_Galaxy__Marvels_Avengers/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Gang Beasts",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/285900/capsule_sm_120.jpg?t=1639479522",
+        "gameLink": "https://store.steampowered.com/app/285900/Gang_Beasts/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Marvel's Guardians of the Galaxy",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1088850/capsule_sm_120.jpg?t=1652199842",
+        "gameLink": "https://store.steampowered.com/app/1088850/Marvels_Guardians_of_the_Galaxy/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "The Sims\u2122 4 Cats & Dogs",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1235721/capsule_sm_120.jpg?t=1630858876",
+        "gameLink": "https://store.steampowered.com/app/1235721/The_Sims_4_Cats__Dogs/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Green Hell",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/815370/capsule_sm_120.jpg?t=1649861422",
+        "gameLink": "https://store.steampowered.com/app/815370/Green_Hell/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Outward - The Soroboreans",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1194010/capsule_sm_120.jpg?t=1623351711",
+        "gameLink": "https://store.steampowered.com/app/1194010/Outward__The_Soroboreans/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Hydroneer",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/capsule_sm_120.jpg?t=1652028863",
+        "gameLink": "https://store.steampowered.com/app/1106840/Hydroneer/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "BioShock Infinite",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/8870/capsule_sm_120.jpg?t=1602794480",
+        "gameLink": "https://store.steampowered.com/app/8870/BioShock_Infinite/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "The Sims 3 Collection",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/bundles/1247/ohymab365wxyofld/capsule_sm_120.jpg?t=1640195190",
+        "gameLink": "https://store.steampowered.com/bundle/1247/The_Sims_3_Collection/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "The Medium",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1293160/capsule_sm_120.jpg?t=1646423615",
+        "gameLink": "https://store.steampowered.com/app/1293160/The_Medium/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Weird West",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/1097350/capsule_sm_120.jpg?t=1652349571",
+        "gameLink": "https://store.steampowered.com/app/1097350/Weird_West/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Shadow Warrior 2",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/324800/capsule_sm_120.jpg?t=1622217281",
+        "gameLink": "https://store.steampowered.com/app/324800/Shadow_Warrior_2/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Car Mechanic Simulator 2021 - Silver Bundle",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/bundles/24184/zn36ljuj47h64sry/capsule_sm_120.jpg?t=1639658518",
+        "gameLink": "https://store.steampowered.com/bundle/24184/Car_Mechanic_Simulator_2021__Silver_Bundle/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    },
+    {
+        "name": "Foundation",
+        "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/690830/capsule_sm_120.jpg?t=1639494967",
+        "gameLink": "https://store.steampowered.com/app/690830/Foundation/?snr=1_7_7_2300_150_1",
+        "platform": "steam"
+    }
+]
