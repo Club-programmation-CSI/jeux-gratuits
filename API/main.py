@@ -1,5 +1,7 @@
 import steam
+import epic
 
-games = steam.fetchGames()
+
+games = epic.fetchGames()
 
 print(games)
