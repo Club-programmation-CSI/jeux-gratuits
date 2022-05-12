@@ -22,5 +22,5 @@ def hello_world():
         games.append(epicGames)
     except Exception as e:
         print(e)
-        
+
     return jsonify([*steamGames, *epicGames])
