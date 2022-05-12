@@ -16,6 +16,7 @@ body {
   margin: 0;
   background: $bg;
   color: rgb(255, 255, 255);
+  font-family: "Roboto Flex";
 }
 
 header {
@@ -47,44 +48,80 @@ header {
     background: linear-gradient(0deg, $bg 10%, rgba(31, 52, 78, 0) 100%);
   }
 }
-
-section {
-  border-radius: 20px;
+.wrapper {
+  position: relative;
   margin: 32px;
   padding: 40px;
   padding-bottom: 40px;
+  border-radius: 20px;
+  overflow: hidden;
   //   margin-bottom: 40px;
   background: #4d5a7b;
-  overflow-x: scroll;
-  scrollbar-color: #647399 transparent;
-  scrollbar-width: auto;
-  &::-webkit-scrollbar {
-    // height: 15px
-    padding: 5px;
-    background-color: transparent; /* or add it to the track */
+  .category-label {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 140px;
+    height: 140px;
+    padding: 16px;
+    img {
+      width: 40px;
+    }
+    &--steam {
+      background: linear-gradient(
+        140deg,
+        #00143c 0%,
+        #275c83 35%,
+        rgba(0, 0, 0, 0) 45%
+      );
+    }
+    &--epic {
+      background: linear-gradient(140deg, #000000 35%, rgba(0, 0, 0, 0) 45%);
+    }
   }
-  &::-webkit-scrollbar-thumb {
-    background: #647399;
-    border-radius: 1000px;
-  }
-  .games {
-    width: max-content;
-    display: flex;
-    gap: 2em;
-    .game {
-      background: #647296;
-      border-radius: 20px;
-      overflow: hidden;
-      max-width: 600px;
-      color: white;
-      text-decoration: none;
-      img {
-        width: 100%;
-        max-height: 400px;
-      }
-      h2 {
-        text-align: center;
+  section {
+    border-radius: 20px;
+    overflow-x: scroll;
+    scrollbar-color: #647399 transparent;
+    scrollbar-width: auto;
+    position: relative;
+    &::-webkit-scrollbar {
+      // height: 15px
+      padding: 5px;
+      background-color: transparent; /* or add it to the track */
+    }
+    &::-webkit-scrollbar-thumb {
+      background: #647399;
+      border-radius: 1000px;
+    }
+    .games {
+      width: max-content;
+      display: flex;
+      gap: 2em;
+      .game {
+        background: #647296;
+        border-radius: 20px;
+        overflow: hidden;
+        max-width: 600px;
+        color: white;
+        text-decoration: none;
+        img {
+          width: 100%;
+          max-height: 400px;
+        }
+        h2 {
+          text-align: center;
+        }
       }
     }
   }
+}
+
+.footer {
+  text-align: center;
+  display: block;
+  font-size: 2em;
+  padding: 2em;
+  font-family: "Bismarck";
 }

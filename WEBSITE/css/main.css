@@ -12,6 +12,7 @@ body {
   margin: 0;
   background: rgb(31, 52, 78);
   color: rgb(255, 255, 255);
+  font-family: "Roboto Flex";
 }
 
 header {
@@ -41,31 +42,55 @@ header .gradient {
   background: linear-gradient(0deg, rgb(31, 52, 78) 10%, rgba(31, 52, 78, 0) 100%);
 }
 
-section {
-  border-radius: 20px;
+.wrapper {
+  position: relative;
   margin: 32px;
   padding: 40px;
   padding-bottom: 40px;
+  border-radius: 20px;
+  overflow: hidden;
   background: #4d5a7b;
+}
+.wrapper .category-label {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 140px;
+  height: 140px;
+  padding: 16px;
+}
+.wrapper .category-label img {
+  width: 40px;
+}
+.wrapper .category-label--steam {
+  background: linear-gradient(140deg, #00143c 0%, #275c83 35%, rgba(0, 0, 0, 0) 45%);
+}
+.wrapper .category-label--epic {
+  background: linear-gradient(140deg, #000000 35%, rgba(0, 0, 0, 0) 45%);
+}
+.wrapper section {
+  border-radius: 20px;
   overflow-x: scroll;
   scrollbar-color: #647399 transparent;
   scrollbar-width: auto;
+  position: relative;
 }
-section::-webkit-scrollbar {
+.wrapper section::-webkit-scrollbar {
   padding: 5px;
   background-color: transparent;
   /* or add it to the track */
 }
-section::-webkit-scrollbar-thumb {
+.wrapper section::-webkit-scrollbar-thumb {
   background: #647399;
   border-radius: 1000px;
 }
-section .games {
+.wrapper section .games {
   width: max-content;
   display: flex;
   gap: 2em;
 }
-section .games .game {
+.wrapper section .games .game {
   background: #647296;
   border-radius: 20px;
   overflow: hidden;
@@ -73,12 +98,20 @@ section .games .game {
   color: white;
   text-decoration: none;
 }
-section .games .game img {
+.wrapper section .games .game img {
   width: 100%;
   max-height: 400px;
 }
-section .games .game h2 {
+.wrapper section .games .game h2 {
   text-align: center;
+}
+
+.footer {
+  text-align: center;
+  display: block;
+  font-size: 2em;
+  padding: 2em;
+  font-family: "Bismarck";
 }
 
 /*# sourceMappingURL=main.css.map */
